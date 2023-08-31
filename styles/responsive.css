@@ -157,9 +157,7 @@
 }
 /* ar eteoda 5ive elementi da magitom davamate */
 @media (max-width: 545px) {
-  * {
-    overflow: hidden;
-  }
+  
   header {
     height: 65px;
   }
